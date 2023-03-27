@@ -75,9 +75,12 @@ Or email us:
 - [Google Developers](https://developers.google.com/)
 - [TensorFlow](https://www.tensorflow.org/)
 - [PyTorch](https://pytorch.org/)
+- [CUDA](https://developer.nvidia.com/cuda-toolkit)
 - [OpenCV](https://opencv.org/)
+- [Pillow](https://pillow.readthedocs.io/en/stable/)
 - [Keras](https://keras.io/)
 - [Scikit-Learn](https://scikit-learn.org/stable/)
+- [SciPy](https://www.scipy.org/)
 - [NumPy](https://numpy.org/)
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
@@ -88,7 +91,7 @@ Or email us:
 
 Name            | Position            | Contacts 
 :-----:|:-------------------------:|:-------------------------:
-| **Hamid Rasul**  | **Campus Lead** | <!-- <a href = "https://github.com/jogendra"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a> --> <a href = "https://www.linkedin.com/in/hamid-rasul-773407179/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
+| **Hamid Rasul**  | **Campus Lead** | <a href = "https://github.com/hrasul"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a> <a href = "https://www.linkedin.com/in/hamid-rasul-773407179/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 | **Irtaza Sajid Qureshi**  | **Wing Lead** | <a href = "https://github.com/StwayneXG"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a> <a href = "https://www.linkedin.com/in/irtaza-sajid/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 | **Tayyab Rashid**  | **Wing Lead** | <a href = "https://github.com/Ifera"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a> <a href = "https://www.linkedin.com/in/tayyabrashid-tr/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a>
 | **Iman Aslam**  | **Director** | <!-- <a href = "https://github.com/jogendra"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a> --> <a href = "https://www.linkedin.com/in/iman-aslam-843a94213/"><img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/></a> |

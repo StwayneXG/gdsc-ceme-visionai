@@ -1,0 +1,11 @@
+tensorflow-gpu
+torch
+opencv-python
+keras
+scikit-learn
+numpy
+pillow
+matplotlib
+pandas
+seaborn
+jupyter
