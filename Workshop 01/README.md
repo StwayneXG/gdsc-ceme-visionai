@@ -13,6 +13,8 @@ The dataset is split into:
 - 60,000 training images 
 - 10,000 test images.
 
+Note: There are no cases for J or Z because of gesture motions
+
 You can find the dataset in the `dataset` folder.
 
 ## Technical Details
