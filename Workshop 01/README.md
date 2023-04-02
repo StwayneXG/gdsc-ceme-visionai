@@ -15,7 +15,7 @@ The dataset is split into:
 
 `Note:` There are no cases for J or Z because of gesture motions
 
-You can find the dataset in the `dataset` folder.
+You can find the dataset in the `SLC_MNIST_DATA` folder.
 
 ## Technical Details
 
